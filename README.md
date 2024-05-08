@@ -2,7 +2,7 @@
 ### Removapp takes its name from the abbreviation of the initials of Movie Review Application. It is basically a film interpretation and rating application and also provides movie details to the user. As part of this project, I retrieved movie data from external sources using the TMDb API. I created an interface for GUI users that allows operations such as searching for movies, listing movies, and accessing movie details. Users can comment and rate the movies they want, and this data is saved in the database. Thanks to the application, users can easily access the information of the movie they want and save their comments and ratings. In short, the aim is to make life easier.
 <br>
 
-### You can access detailed information about the project from the Removapp Report.pdf file by [clicking here](Removapp Report.pdf). The report comprehensively explains the project under the headings of Objective of the Project and Project Structure, Used Technologies, Functionality of the Application, Challenges and Solutions, and Conclusion.
+### You can access detailed information about the project from the RemovappReport.pdf file by [clicking here](RemovappReport.pdf). The report comprehensively explains the project under the headings of Objective of the Project and Project Structure, Used Technologies, Functionality of the Application, Challenges and Solutions, and Conclusion.
 
 <br>
 
